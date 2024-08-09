@@ -32,7 +32,7 @@ img {
     background-color: var(--white);
     max-width: 24rem;
     min-height: 522px;
-    padding: 1rem;
+    padding: 1.5rem;
     border: 1px solid var(--gray-950);
     border-radius: 1rem;
     color: var(--gray-950);
